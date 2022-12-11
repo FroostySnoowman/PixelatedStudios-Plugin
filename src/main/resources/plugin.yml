@@ -1,0 +1,10 @@
+name: PixelatedStudios
+version: '${project.version}'
+main: frostyservices.org.pixelatedstudios.Main
+api-version: 1.19
+authors: [ Someone ]
+description: A plugin for PixelatedStudios applications.
+commands:
+  troll:
+    description: Troll Command
+    usage: /<command>
